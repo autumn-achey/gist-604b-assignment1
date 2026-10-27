@@ -50,3 +50,28 @@ It looks like the last update on this repository was 3 months ago.
 ### Key Observation
 I like the way this repository is layed out. Everything is easy to find and sorted into categories. It also includes references for pretty much anything a GIS user could need or want.
 ---
+## Repository 3
+
+**Repository Name:**  GDAL - Geospatial Data Abstraction Library
+**Link:**  https://github.com/OSGeo/gdal
+
+### Purpose
+What does this project do?
+This project is an informational regarding GDAL and includes various resources associated with the program. GDAL is "an open source MIT licensed translator library for raster and vector geospatial data formats."
+
+### Repository Structure
+What folders or files stand out?
+This repository has many folders and files listed, but the ones labeled GUIDE stand out the most. Making guides easily accessible to the readers is a huge plus in my opinion.
+
+### Documentation
+How helpful is the README?
+The README includes mostly links to folders or other sites that have information on GDAL. I wish there was more information regarding the actual program rather than just out sourced links.
+
+### Activity
+Is the repository actively maintained?
+Yes, last updated 4 days ago.
+
+### Key Observation
+One thing this project does well.
+This project includes lots of links to information on just about anything a person using GDAL could need. It has download instructions, bug tracker, and more.
+---
