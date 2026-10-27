@@ -99,3 +99,6 @@ Yes, it was updated 8 hours ago.
 ### Key Observation
 One thing this project does well.
 This project in very organized. You can find any information easily and if the iformation is not directly written, it is linked somewhere.
+
+## Reflection
+Open source projects have a few things in common when it comes to organization. They all include a README file which generally contains project explanation and links to other files within the repository. They also almost all include contribution information, security features, and code of conducts. 
