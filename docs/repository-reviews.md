@@ -75,3 +75,27 @@ Yes, last updated 4 days ago.
 One thing this project does well.
 This project includes lots of links to information on just about anything a person using GDAL could need. It has download instructions, bug tracker, and more.
 ---
+### Repository 4
+
+**Repository Name:**  Geonode
+**Link:**  https://github.com/GeoNode/geonode
+
+### Purpose
+What does this project do?
+This project shares with readers the function and uses of Geonode. Geonode is a geospatial content system made for data sharing and creating interactive maps.
+
+### Repository Structure
+What folders or files stand out?
+The Change Log file. This file keeps a list of updates and/or bug fixes to the program.
+
+### Documentation
+How helpful is the README?
+Incredibly helpful! The README has table of contents, a simple (yet effective)  explanation of the program, and instructions on trying out the program yourself.
+
+### Activity
+Is the repository actively maintained?
+Yes, it was updated 8 hours ago.
+
+### Key Observation
+One thing this project does well.
+This project in very organized. You can find any information easily and if the iformation is not directly written, it is linked somewhere.
