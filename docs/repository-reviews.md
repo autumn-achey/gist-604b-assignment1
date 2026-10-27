@@ -31,3 +31,22 @@ Yes. Some files and folders have been updated within an hour of me viewing it.
 One thing this project does well.
 This project does a great job at pulling people in. The name catches the eye and the creator makes use of lots of imagery that catches the eye as well. This project also takes something that could be seen as "risky" and makes it available to everyone, further pulling in an audience.
 ---
+## Repository 2
+**Repository Name:**  Aweomse GIS
+**Link:**  https://github.com/sshuair/awesome-gis
+
+### Purpose
+This project allows users to contribute resources relating to geospatial, cartographic tools, geoanalysis, and more.
+
+### Repository Structure
+There is a file for geospatial start ups and companies. Within it, there are links to companies all over the world and invludes information like their specialization. 
+
+### Documentation
+The README is exceptionally helpful. It includes all links that have been contributed to this repository, a table of contents, and links to a contribution guidlines page.
+
+### Activity
+It looks like the last update on this repository was 3 months ago.
+
+### Key Observation
+I like the way this repository is layed out. Everything is easy to find and sorted into categories. It also includes references for pretty much anything a GIS user could need or want.
+---
